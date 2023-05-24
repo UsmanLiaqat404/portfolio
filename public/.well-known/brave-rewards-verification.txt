@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: usmanliaqat-portofolio.web.app
+Token: 98b1b2a651ce9c93932f8f6bd353663ec85432ee127380ec4328097fa5c2575d
